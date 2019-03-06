@@ -1,5 +1,5 @@
 Drugi projekt polega na analizie sentymentu. Dane, opis i możliwość wysyłania rozwiązań znajduje się w Kaggle:
 
-https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/leaderboard
+https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/
 
 być może uda mi się zrobić zrobić własny konkurs na Kaggle z polskimi danymi. Do 11.03 napiszę w tej sprawie i wtedy uszczegółowię warunki zaliczenia.
